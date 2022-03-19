@@ -21,7 +21,7 @@ This project was developed at the [RocketSeat Ignite React Native](https://rocke
 
 -  [ReactJS](https://reactjs.org/)
 -  [React Navigation](https://reactnavigation.org/)
--  [Axios](https://github.com/axios/axios)
+-  [AsyncStoraged](https://github.com/react-native-async-storage/async-storage)
 -  [styled-components](https://www.styled-components.com/)
 -  [expo-vector-icons](https://github.com/expo/vector-icons)
 -  [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
